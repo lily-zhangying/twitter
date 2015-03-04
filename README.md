@@ -7,3 +7,7 @@ get resent twitter data from twitter api
 * Info about Twitter’s APIs is here: https://dev.twitter.com and https://dev.twitter.com/docs/api/1.1
 * Libraries are here: https://dev.twitter.com/docs/twitter-libraries
 * Code examples (for Twitter4J) are here: http://twitter4j.org/en/code-examples.html
+
+# use
+* install tweepy first 
+* tweept https://github.com/tweepy/tweepy
