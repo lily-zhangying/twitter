@@ -10,4 +10,4 @@ get resent twitter data from twitter api
 
 # use
 * install tweepy first 
-* tweept https://github.com/tweepy/tweepy
+* tweepy https://github.com/tweepy/tweepy
